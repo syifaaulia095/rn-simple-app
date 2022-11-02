@@ -15,7 +15,7 @@
     "@babel/preset-env": "^7.7.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-native": "0.57.8",
+    "react-native": "0.70.4",
     "react-native-gesture-handler": "^1.5.0",
     "react-native-reanimated": "^1.4.0",
     "react-native-screens": "^1.0.0-alpha.23",
